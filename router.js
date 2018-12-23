@@ -8,7 +8,7 @@ function hello(req,res){
      if(username==="hello"){
        res.writeHead(200,{'Content-Type':"text/plain"});
        res.write("Hi guyies :: \n");
-       red.write(mysite +"\n");
+       res.write(mysite +"\n");
        res.end("Thank you \n");
      }
   }
