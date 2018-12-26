@@ -1,6 +1,7 @@
 //dependencies
 var http = require('http');
 var router = require('./router');
+var fs = require('fs');
 
 //create server
 http.createServer(function(req,res){

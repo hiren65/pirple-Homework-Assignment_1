@@ -1,0 +1,8 @@
+{
+ "author" 	: "Hirenkumar Patel"			,
+ "info-site" 	: "www.hirenkumar.com.au" 	,
+ "Content-Type": "text/json"			,
+ "local-Powered-By" : "nodejs"				,
+ "Resonse_of_hello" : "WelCome to NodeJs world" 	,
+ "subject"		:	"Pirple REST-ful JSON response"
+}
